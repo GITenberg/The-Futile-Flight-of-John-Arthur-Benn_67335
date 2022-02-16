@@ -1,11 +1,16 @@
 _repo: The-Futile-Flight-of-John-Arthur-Benn_67335
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67335-h/images/cover.jpg
 creator:
   author:
     agent_name: Halibut, Edward
     gutenberg_agent_id: '54216'
     url: http://www.gutenberg.org/2009/agents/54216
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67335#The-Futile-Flight-of-John-Arthur-Benn
 gutenberg_issued: '2022-02-06'
 identifiers:
   gutenberg: '67335'
